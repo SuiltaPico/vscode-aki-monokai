@@ -504,7 +504,7 @@
     },
     {
       "name": "Markup: Emphasis",
-      "scope": "markup.italic, markup.italic.markdown",
+      "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic"
       }
@@ -512,9 +512,7 @@
     {
       "name": "Markup: Punctuation",
       "scope": [
-        "punctuation.definition.italic.markdown",
-        "punctuation.definition.bold.markdown",
-        "punctuation.definition.heading.markdown"
+        "punctuation.definition",
       ],
       "settings": {
         "foreground": "#676f7d"
@@ -522,28 +520,28 @@
     },
     {
       "name": "Markup: Emphasis Punctuation",
-      "scope": "punctuation.definition.italic.markdown",
+      "scope": "punctuation.definition.italic",
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Markdown: Link",
-      "scope": "markup.underline.link.markdown",
+      "scope": "markup.underline.link",
       "settings": {
         "foreground": "#61afef"
       }
     },
     {
       "name": "Markup: Bold",
-      "scope": "markup.bold.markdown",
+      "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
       "name": "Markup: Heading",
-      "scope": "markup.heading.markdown",
+      "scope": "markup.heading",
       "settings": {
         "fontStyle": "bold",
         "foreground": "#e06c75"
@@ -551,14 +549,14 @@
     },
     {
       "name": "Markup: Quote",
-      "scope": "markup.quote.markdown",
+      "scope": "markup.quote",
       "settings": {
         "foreground": "#98c379"
       }
     },
     {
       "name": "Markup: Separator",
-      "scope": "meta.separator.markdown",
+      "scope": "meta.separator",
       "settings": {
         "foreground": "#c678dd",
         "fontStyle": "bold"
@@ -567,8 +565,7 @@
     {
       "name": "Markup: Raw",
       "scope": [
-        "markup.raw.inline.markdown",
-        "markup.raw.block.markdown"
+        "markup.raw"
       ],
       "settings": {
         "foreground": "#56b6c2"
@@ -576,7 +573,7 @@
     },
     {
       "name": "Markup: List Punctuation",
-      "scope": "punctuation.definition.list_item.markdown",
+      "scope": "punctuation.definition.list_item",
       "settings": {
         "fontStyle": "bold",
         "foreground": "#ffffff"
