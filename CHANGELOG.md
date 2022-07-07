@@ -1,37 +1,45 @@
 ## Changelog
-All notable changes to the "one-monokai" extension will be documented in this file.
 
-### v0.4.4
+### aki-monokai
+All notable changes to the "aki-monokai" extension will be documented in this section.
+
+
+
+### one-monokai
+
+All notable changes to the "one-monokai" extension will be documented in this section.
+
+#### v0.4.4
 
 - Revert change to embedded ruby (erb) scope
 
-### v0.4.3
+#### v0.4.3
 
 - Revert change to JS readwrite scope
 - Add specific readwrite variable scope for batchfile
 
-### v0.4.2
+#### v0.4.2
 
 - Specify readwrite variable scope
 
-### v0.4.1
+#### v0.4.1
 
 - Update git diff colors by [@waldyrious](https://github.com/waldyrious)
 - Integrated terminal support
 
-### v0.4.0
+#### v0.4.0
 
 - Fix coloring for TypeScript template literal
 - Fix string interpolation for Ruby, PHP and Elixir
 - Disable italics on comments
 
-### v0.3.6
+#### v0.3.6
 
 - Increased comment brightness by [@jtlapp](https://github.com/jtlapp)
 - Brighten active tab color by [@waldyrious](https://github.com/waldyrious)
 - Add Made in Nigeria badge by [@hacktivist123](https://github.com/hacktivist123)
 
-### v0.3.x
+#### v0.3.x
 
 - Make white space visible for active editor line. by [@notgiorgi](https://github.com/notgiorgi)
 - Convert to json syntax theme.
@@ -39,13 +47,13 @@ All notable changes to the "one-monokai" extension will be documented in this fi
 - Workbench themeing
 - [Markdown Support](https://github.com/azemoh/vscode-one-monokai/pull/9) by [@davvidbaker](https://github.com/davvidbaker)
 
-### v0.2.x
+#### v0.2.x
 
 - Fix highlighting for method call and Class names.
 - Proper highlight for JSX html tags.
 - Increase support for default VSCode JS Grammar.
 
-### v0.1.x
+#### v0.1.x
 
 - Syntax highlight for embedded string.
 - Syntax highlight for Logical operators (and, or).

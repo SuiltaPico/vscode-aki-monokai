@@ -1,9 +1,9 @@
 {
     "name": "aki-monokai",
     "displayName": "Aki Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme.",
+    "description": "[Fork] A cross between Monokai and One Dark theme. forked from one-monokai.",
     "version": "0.6.0",
-    "publisher": "Suilta Pico",
+    "publisher": "SuiltaPico",
     "engines": {
         "vscode": "^1.13.0"
     },
