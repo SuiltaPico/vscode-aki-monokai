@@ -3,7 +3,8 @@
 ### aki-monokai
 All notable changes to the "aki-monokai" extension will be documented in this section.
 
-
+### v0.6
+- Removed the limitation of color matching on markdown.
 
 ### one-monokai
 

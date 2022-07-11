@@ -515,7 +515,6 @@
         "punctuation.definition.bold",
         "punctuation.definition.italic",
         "punctuation.definition.heading",
-        "punctuation.definition.list",
       ],
       "settings": {
         "foreground": "#676f7d"

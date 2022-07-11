@@ -2,7 +2,7 @@
     "name": "aki-monokai",
     "displayName": "Aki Monokai Theme",
     "description": "[Fork] A cross between Monokai and One Dark theme. forked from one-monokai.",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "publisher": "SuiltaPico",
     "engines": {
         "vscode": "^1.13.0"
