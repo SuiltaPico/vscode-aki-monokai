@@ -1,23 +1,26 @@
 # Aki Monokai Theme
 A cross between Monokai and One Dark theme.
 
-Forked from [one-monokai](https://github.com/azemoh/vscode-one-monokai).
 
 ## Install
-press `ctl/command + p` to launch quick open then run
+press `ctrl/command + P` to launch quick open then run
 ```
 ext install aki-monokai
 ```
 
 ## Screenshot
-Screenshot of Ruby and JavaScript
+Screenshot of JSX and Ruby.
 
-![Theme Screenshot](screenshot-v0.2.0.png)
+![Theme Screenshot](./screenshot-v0.6.4.png)
 
-If you like this theme checkout [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark)
+If you like this theme checkout [One Dark Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark).
 
-## Why create this fork
-I really like the color scheme of the original theme, but unfortunately, the original theme is not friendly to other markup languages, and the maintainers have long ignored github issues. So I created this fork and generalized the markup language support. In the future, if necessary, I will continue to modify this theme and follow the original style.
+## Is this original?
+No, this theme is forked and improved from [one-monokai](https://github.com/azemoh/vscode-one-monokai).
+
+
+### Why create this fork
+I really like the color scheme of the original theme, but unfortunately the original theme has not been maintained for a long time, and I happen to have some other ideas.
 
 ## Change log
-You can take a look at the change log [here](https://github.com/SuiltaPico/vscode-aki-monokai/blob/master/CHANGELOG.md)
+You can take a look at the change log [here](https://github.com/SuiltaPico/vscode-aki-monokai/blob/master/CHANGELOG.md).
